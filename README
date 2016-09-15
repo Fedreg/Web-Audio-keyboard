@@ -1,1 +1,3 @@
 First foray into web audio.  Four synths that can be played by touch (Meant to be used on an Ipad).  Click the #/b to enable "black keys" for using chromatic notes.  Each keyboard has completely separate logic for experimentation so easy to tweak and compare.  Delay and distortion effects are not sounding well in current configuration.  Menu on the left can enable access to sustain, octave, and wave type parameters.  This was the foundation of the Web-Audio-Sketchpad so check that out for a more robust and refactored implementation of web-audio
+
+DEMO at https://fedreg.github.io/Web-Audio-keyboard/
